@@ -1,0 +1,109 @@
+body{
+	background: #F0F8FF;
+}
+
+input[type="text"] {
+	font-size: 15px;
+}
+
+
+.glavnaia li a:hover{
+	color: red;
+}
+
+.glavnaia a {
+	font-family: Times New Roman, Verdana, sans-serif;
+	font-size: 28px;
+	font-style: normal;
+	color: #00CCFF;
+	text-decoration: none ;
+	background-color: ;
+}
+
+.glavnaia {
+	list-style-type: none;
+}
+
+.katal{
+	font-family: cursive;
+}
+
+.iph{
+	font-family: cursive;
+}
+
+.zagalovki{
+	font-size: 22px;
+	font-weight: 300;
+	color: black;
+	background-color: #AFEEEE;
+}
+
+.kratkoe{
+	color: black;
+	font-size: 22px;
+	font-style: normal;
+	font-family: serif;
+	line-height: 20px;
+}
+
+.xarakter{
+	color: black;
+	font-size: 17px;
+	font-weight: 100;
+	font-style: italic;
+	font-family: cursive;
+}
+
+.podrobno{
+	color: black;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 24px;
+	font-style: normal;
+	font-family: serif;
+}
+
+.input{
+	height: 20px;
+	font-style: italic;
+	width: 180px;
+	text-transform: capitalize ;
+	color: purple;
+
+}
+
+#input:focus{
+
+	background-color: rgb(0, 255, 255);
+	color: red;
+}
+
+.footer{
+	text-align: center;
+	background-color: rgb(192,192,192);
+	height: 100px
+}
+
+.pervai p:first-letter{
+	font-size: 150%;
+	color: #0701ff;
+	font-family: monospace;
+
+}
+
+table {
+   border: 1px solid grey;
+}
+
+th {
+   border: 1px solid grey;
+}
+
+.katal{
+	background-color: #CCFFFF;
+}
+td {
+   border: 1px solid grey;
+}
+
